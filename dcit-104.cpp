@@ -1,3 +1,9 @@
+/*
+Name : Nelly odai
+Course code : DCIT 104 Programmming Fundamentals
+ID :10957485
+*/
+
 #include <iostream>
 int main(void) {
 int i,j,n;
